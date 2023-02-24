@@ -45,6 +45,9 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "cinttypes": "cpp",
-        "typeinfo": "cpp"
-    }
+        "typeinfo": "cpp",
+        "csignal": "cpp",
+        "ctime": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

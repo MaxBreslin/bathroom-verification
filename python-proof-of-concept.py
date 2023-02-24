@@ -4,7 +4,7 @@ import time
 import math
 
 data = {
-    'id': '000000',
+    'sid': '000000',
     'timestamp': '',
     'bathroom-id': ''
 }

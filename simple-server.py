@@ -32,7 +32,7 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
         
         #defines response with all the same values as 'params' but formats
         #it to look better for the write file
-        response = f"id: {params['id']}\ntimestamp: {params['timestamp']}\nbathroom-id: {params['bathroom-id']}\n"
+        response = f"sid: {params['sid']}\ntimestamp: {params['timestamp']}\nbathroom-id: {params['bathroom-id']}\n"
         #prints response to the terminal for testing purposes
         print(response)
         #opens 'bathroom-data.txt' and writes all the formatted data from 
