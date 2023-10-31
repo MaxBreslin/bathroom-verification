@@ -1,7 +1,7 @@
 
 # bathroom-verification
 
-This is the current codebase for Luke's school bathroom verification idea. main will be running on a Raspberry Pi embedded in the door lock.
+This is the current codebase for Forest Grove High School's bathroom verification project. main will be running on a Raspberry Pi embedded in the door lock.
 
 Upon interaction, the below steps will be performed on the Pi:
  1. poll keypad, waiting for student to type in their id and press 'accept' button
